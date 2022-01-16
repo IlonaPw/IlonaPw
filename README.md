@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+
+#### 🌐 Websites
+* [Homepage](https://ilonapw.github.io/): https://github.com/IlonaPw/IlonaPw.github.io 
+
+
+#### 🕹 Games
+* Spark: https://github.com/TibRib/spark-wonderjam
+
+#### 🎓 School projects
+* Hidoop: https://github.com/Bauda17/hidoop
+* Apprentissage profond:  https://github.com/K-ssou/App_Profond_Geoguessr
+* Application web: https://github.com/Bauda17/AppliWeb
+* IA : https://github.com/Totolariflette/8INF846_TP1, https://github.com/alatar-u/8INF846_TP2
+* Programation mobile : https://github.com/mhabaj/GeoExplore
+* Moteur Physique : https://github.com/ClaraDel/Maths_Physique_JV_ProjetSession
 <!--
 **IlonaPw/IlonaPw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
