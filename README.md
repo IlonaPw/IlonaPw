@@ -7,6 +7,7 @@
 
 #### 🕹 Games
 * Spark: https://github.com/TibRib/spark-wonderjam
+* Just A Night : https://github.com/ClaraDel/JustANight
 
 #### 🎓 School projects
 * Hidoop: https://github.com/Bauda17/hidoop
